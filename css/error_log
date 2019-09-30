@@ -1,0 +1,20 @@
+[21-Jul-2019 04:25:16 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function home_url() in /home/maheswor/travel.maheswor.com.np/travel/wp-content/themes/travel/css/style.php:466
+Stack trace:
+#0 {main}
+  thrown in /home/maheswor/travel.maheswor.com.np/travel/wp-content/themes/travel/css/style.php on line 466
+[21-Jul-2019 04:25:22 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function home_url() in /home/maheswor/travel.maheswor.com.np/travel/wp-content/themes/travel/css/style.php:466
+Stack trace:
+#0 {main}
+  thrown in /home/maheswor/travel.maheswor.com.np/travel/wp-content/themes/travel/css/style.php on line 466
+[21-Jul-2019 04:28:27 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function home_url() in /home/maheswor/travel.maheswor.com.np/travel/wp-content/themes/travel/css/style.php:468
+Stack trace:
+#0 {main}
+  thrown in /home/maheswor/travel.maheswor.com.np/travel/wp-content/themes/travel/css/style.php on line 468
+[21-Jul-2019 04:28:36 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function home_url() in /home/maheswor/travel.maheswor.com.np/travel/wp-content/themes/travel/css/style.php:468
+Stack trace:
+#0 {main}
+  thrown in /home/maheswor/travel.maheswor.com.np/travel/wp-content/themes/travel/css/style.php on line 468
+[21-Jul-2019 04:32:52 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function home_url() in /home/maheswor/travel.maheswor.com.np/travel/wp-content/themes/travel/css/style.php:468
+Stack trace:
+#0 {main}
+  thrown in /home/maheswor/travel.maheswor.com.np/travel/wp-content/themes/travel/css/style.php on line 468
